@@ -1,1 +1,3 @@
-# main
+body {
+    font-family: SIMPLEX;
+}
